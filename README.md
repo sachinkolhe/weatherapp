@@ -19,7 +19,3 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 mvn spring-boot:run
 ```
 
-
-## Copyright
-
-Released under the Apache License 2.0. See the [LICENSE](https://) file.
